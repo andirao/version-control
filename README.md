@@ -1,4 +1,4 @@
 # Belajar menggunakan version control Github
 
-## Getting started
+## Getting started Using GitHub
 - Install Git Bash
